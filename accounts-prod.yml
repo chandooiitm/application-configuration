@@ -1,8 +1,8 @@
 build:
-  version: "1.0"
+  version: "1.0-production"
 
 accounts:
-  message: "Welcome to Edited in git accounts related prod APIs "
+  message: "Welcome to Edited in git accounts related Production APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}f4bf0648e9e4ef3902c2ef2a47d4cba3963f251d43894a0692e8465a1fd2462b336f59ee5fe263298cac3eee2344522c"
